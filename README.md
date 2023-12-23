@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Dev**
 
-- 💬 Ask me about **C++,CSS,ReactJs.**
+- 💬 Ask me about **C++,JavaScript,CSS,ReactJs.**
 
 - 📫 How to reach me **abhisingh071103@gmail.com**
 
